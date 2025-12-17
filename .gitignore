@@ -23,3 +23,11 @@ package-lock.json
 
 # Built JS
 dist/
+
+# Python Lambda build artifacts (ignore contents but keep directories)
+python/virus-scan/clamAV-def/*
+!python/virus-scan/clamAV-def/.gitkeep
+python/virus-scan/deploy/*
+!python/virus-scan/deploy/.gitkeep
+python/virus-scan/layer/*
+!python/virus-scan/layer/.gitkeep
