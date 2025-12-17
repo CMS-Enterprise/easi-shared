@@ -23,3 +23,8 @@ package-lock.json
 
 # Built JS
 dist/
+
+# Python Lambda build artifacts
+python/virus-scan/clamAV-def/
+python/virus-scan/deploy/
+python/virus-scan/layer/
