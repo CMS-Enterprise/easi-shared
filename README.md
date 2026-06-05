@@ -1,3 +1,5 @@
 # EASi Shared
 
-Shared code!!! Wow!
+## Documentation
+
+- [Security Policy](./SECURITY.md)
